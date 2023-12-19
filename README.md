@@ -1,4 +1,4 @@
-### Assesment
+### Expense Calculator
 ##### Backend
 - API to register and login user.
 - API using which loged in user can add, edit and update it's product.
