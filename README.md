@@ -38,4 +38,5 @@ To run react frontend
 2. `npm start`
 
 ***ALHAMDULILLAH***
+***Follow for more projects like this***
 
